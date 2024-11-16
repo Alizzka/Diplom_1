@@ -1,0 +1,5 @@
+.idea/
+src/main/
+generated-sources/
+generated-test-sources/
+maven-status/
